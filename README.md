@@ -1,4 +1,4 @@
-# Experiment-9
+# Experiment-6
 
 # To add , remove, retrieve an element in an Array
 
